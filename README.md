@@ -47,9 +47,9 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 7**  |  10 Apr  <br />11 Apr  |  In-context Learning - GPT-3 + Prompts &#124; Instruction Tuning<br />Project Description    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 8**  | 17 Apr <br />18 Apr  |  Ethics in NLP: Bias / Fairness and Toxicity, Privacy, Disinformation <br />**No class** (Project work; A1 Grade Review Session)    |  Anna Sotnikova                   		|
+| **Week 8**  | 17 Apr <br />18 Apr  |  Scaling laws &#124; Model Compression <br />**No class** (Project work; A1 Grade Review Session)    |  Antoine Bosselut <br /> 		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 9** | 24 Apr <br />25 Apr  |  Scaling laws &#124; Model Compression <br />**No class** (Project work; A1 Grade Review Session)    |  Antoine Bosselut <br /> 		|
+| **Week 9** | 24 Apr <br />25 Apr  |  Ethics in NLP: Bias / Fairness and Toxicity, Privacy, Disinformation <br />**No class** (Project work; A1 Grade Review Session)    |  Anna Sotnikova                   		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 10** |  1 May <br />2 May   |  Tokenization: BPE, WP, Char-based &#124; Multilingual LMs <br />Guest Lecture: Kayo Yin  |  Negar Foroutan <br /> Kayo Yin                 		|
 |             |                      |                                                                                                                             |                                      	    |
