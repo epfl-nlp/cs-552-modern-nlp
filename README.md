@@ -71,7 +71,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 3</strong></td>
         <td>5 Mar <br />6 Mar</td>
-        <td>Sequence-to-sequence Models [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203">slides</a>] &#124; Transformers <br />Pretraining: GPT [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203">slides</a>]</td>
+        <td>Sequence-to-sequence Models [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+7-8A+Sequence+to+Sequence+Models+%26+Transformers/0_71gviryj/31346">video</a>] &#124; Transformers <br />Pretraining: GPT [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+9A+Transformers+Pretraining/0_zb407gx4/31346">video</a>]</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a></li><li><a href="https://aclanthology.org/W18-2509">The Annotated Transformer</a></li><li><a href="https://jalammar.github.io/illustrated-transformer/">The illustrated transformer</a></li><li>GPT: <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">Improving language understanding by generative pre-training</a></li><li>GPT2: <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf">Language Models are Unsupervised Multitask Learners</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
