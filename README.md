@@ -235,7 +235,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 13</strong></td>
         <td>21 May <br />22 May</td>
-        <td>Interpretability <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Interpretability [<a href="https://mediaspace.epfl.ch/media/%5B2025%5D++31-32A+Interpretability/0_b91th2sg/31346">video</a>] <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: -</td>
         <td>Gail Weiss</td>
     </tr>
