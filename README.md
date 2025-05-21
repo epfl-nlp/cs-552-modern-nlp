@@ -207,7 +207,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 11</strong></td>
         <td>7 May <br />8 May</td>
-        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+27-28A+Scaling+%26+Compression/0_pzoyq5b9/31346">video</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral) [<a href="https://mediaspace.epfl.ch/media/%5B2025%5D+Guest+Lecture+from+MistralA+Scaling+Laws/0_li2tqs0k/31346">video</a>]</td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+27-28A+Scaling+%26+Compression/0_pzoyq5b9/31346">video</a>]<br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral) [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2011">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+Guest+Lecture+from+MistralA+Scaling+Laws/0_li2tqs0k/31346">video</a>]</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -221,7 +221,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 12</strong></td>
         <td>14 May <br />15 May</td>
-        <td>Ethics: Bias & Fairness  &#124; Toxicity & Disinformation <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Ethics: Bias & Fairness  &#124; Toxicity & Disinformation [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2012">slides</a>] <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
         <td>Anna Sotnikova</td>
     </tr>
@@ -235,7 +235,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 13</strong></td>
         <td>21 May <br />22 May</td>
-        <td>Interpretability [<a href="https://mediaspace.epfl.ch/media/%5B2025%5D++31-32A+Interpretability/0_b91th2sg/31346">video</a>] <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Interpretability [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2013">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D++31-32A+Interpretability/0_b91th2sg/31346">video</a>] <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: -</td>
         <td>Gail Weiss</td>
     </tr>
