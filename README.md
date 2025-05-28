@@ -249,7 +249,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 14</strong></td>
         <td>28 May <br />29 May</td>
-        <td>Tokenization &#124; Multilingual LMs + Looking forward <br /><strong>Holiday</strong></td>
+        <td>Tokenization &#124; Multilingual LMs + Looking forward [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2014">slides</a>]<br /><strong>Holiday</strong></td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
