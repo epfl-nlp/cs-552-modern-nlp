@@ -8,7 +8,6 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 - [Platforms](#class)
 - [Lecture Schedule](#lectures)
 - [Exercise Schedule](#exercises)
-- [Grading](#evaluation)
 - [Contact](#contact)
 
 <a name="class"></a>
