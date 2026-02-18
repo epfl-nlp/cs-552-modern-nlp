@@ -19,7 +19,7 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 | Lectures           						| **Wednesdays: 11:15-13:00** [[STCC - Cloud C]()] & **Thursdays: 13:15-14:00** [[CE16]()]  |
 | Exercises Session  						| **Thursdays: 14:15-16:00** [[CE11]()] 																				   |
 | Project Assistance <br />(not every week) | **Wednesdays: 13:15-14:00** [[STCC - Cloud C]()] 													   						   |
-| QA Forum & Annoucements   			    | Ed Forum [[link](https://edstem.org/eu/courses/2071/discussion)]                                       													   | 
+| QA Forum & Annoucements   			    | Ed Forum [[link](https://edstem.org/eu/courses/3119/discussion)]                                       													   | 
 | Grades             						| Moodle [[link](https://moodle.epfl.ch/course/view.php?id=17143)]     
 | Lecture Recordings						| Mediaspace [[link](https://mediaspace.epfl.ch/channel/CS-552%2BModern%2Bnatural%2Blanguage%2Bprocessing/31346)]			|
 
@@ -81,11 +81,11 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
 <a name="contact"></a>
 ## Contacts
 
-Please email us at **nlp-cs552-spring2025-ta-team [at] groupes [dot] epfl [dot] ch** for any administrative questions, rather than emailing TAs individually. All course content questions need to be asked via [Ed](https://edstem.org/eu/courses/1159/discussion/).
+Please email us at **nlp-cs552-spring2026-ta-team [at] groupes [dot] epfl [dot] ch** for any administrative questions, rather than emailing TAs individually. All course content questions need to be asked via [Ed](https://edstem.org/eu/courses/3119/discussion).
 
 **Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut)
 
-**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Mete Ismayilzada](https://people.epfl.ch/mahammad.ismayilzada), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Auguste Poiroux](https://people.epfl.ch/auguste.poiroux), [Ayush Tarun](https://people.epfl.ch/ayush.tarun)
+**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic)
 
 
 
