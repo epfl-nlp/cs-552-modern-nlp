@@ -16,9 +16,9 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 | Platform           				| Where & when                                              																								   |
 |:------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lectures           						| **Wednesdays: 11:15-13:00** [[STCC - Cloud C]()] & **Thursdays: 13:15-14:00** [[CE16]()]  |
-| Exercises Session  						| **Thursdays: 14:15-16:00** [[CE11]()] 																				   |
-| Project Assistance <br />(not every week) | **Wednesdays: 13:15-14:00** [[STCC - Cloud C]()] 													   						   |
-| QA Forum & Annoucements   			    | Ed Forum [[link](https://edstem.org/eu/courses/3119/discussion)]                                       													   | 
+| Exercises Session  						| **Thursdays: 14:15-16:00** [[CE11]()] 											     	   |
+| Project Assistance <br />(not every week) | **Wednesdays: 13:15-14:00** [[STCC - Cloud C]()] 					   						   |
+| QA Forum & Annoucements   			    | Ed Forum [[link](https://edstem.org/eu/courses/3119/discussion)]                             | 
 | Grades             						| Moodle [[link](https://moodle.epfl.ch/course/view.php?id=17143)]     
 | Lecture Recordings						| Mediaspace [[link](https://mediaspace.epfl.ch/channel/CS-552%2BModern%2Bnatural%2Blanguage%2Bprocessing/31346)]			|
 
@@ -42,7 +42,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 1</strong></td>
         <td>19 Feb <br />20 Feb</td>
-        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/">slides</a>]<br />Word embeddings</td>
+        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>]<br />Word embeddings [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>]</td>
         <td><ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 14.5 - 14.6</a></li><li><a href="https://arxiv.org/abs/1301.3781">Efficient Estimation of Word Representations in Vector Space</a></li><li><a href="https://aclanthology.org/D14-1162">GloVe: Global Vectors for Word Representation</a></li><li><a href="https://aclanthology.org/Q17-1010">Enriching word vectors with subword information</a></li><li><a href="https://aclanthology.org/L18-1008">Advances in pre-training distributed word representations</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
