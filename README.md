@@ -69,9 +69,9 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
 
 | Week        | Date    |  Topic                                                                                    |  Instructor                                                         |
 |:------------|:--------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------:|
-| **Week 1**  |         |                                                                                           |                                                                     |
-|             |         |                                                                                           |                                                                     |
-| **Week 2**  |         |                                                                                           |                                                                     |
+| **Week 1**  | 19 Feb  | None   |  None                                                                              |
+|             |         |        |                                                                                  |
+| **Week 2**  | 26 Feb  | Intro + Setup       |  Madhur Panwar                                                                   |
 |             |         |                                                                                           |                                                                     |
 | **Week 3**  |         |                                                                                           |                                                                     |
 |             |         |                                                                                           |                                                                     |
