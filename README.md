@@ -67,8 +67,8 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
 <a name="exercises"></a>
 ## Exercise Schedule
 
-| Week        | Release Date    |  Exercise Session Date  | Topic                                                                                  |  Instructor                                                         |
-|:------------|:--------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------:|
+| Week        | Release Date    |  Exercise Session Date  | Topic                                                                                  |  Instructor   |
+|:------------|:--------|:------------------------------------------------------------------------------------------|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 | **Week 1**  | 19 Feb  | 26 Feb | Intro + Setup   |  Madhur Panwar |
 | **Week 2**  | 26 Feb  |  5 Mar |  LMs + Neural LMs: fixed-context models <br/>  Language and Sequence-to-sequence models | Badr AlKhamissi |
 | **Week 3**  | 5 Mar  | 12 Mar | Attention + Transformers + Tokenization   |  Badr AlKhamissi |
