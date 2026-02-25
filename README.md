@@ -48,6 +48,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     </tr>
     <tr>
         <td><strong>Week 2</strong></td>
+        <td>25 Feb <br />26 Feb</td>
         <td>Classical LMs &#124; Neural LMs: Fixed Context Models  [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_2">slides</a>] <br />Neural LMs: RNNs [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_2">slides</a>] </td>
         <td>Suggested reading: <ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 6.1-6.4</a></li><li><a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a></li><li><a href="https://proceedings.mlr.press/v28/pascanu13.html">On the difficulty of training recurrent neural networks</a></li><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 18.3, 18.4</a></li></ul></td>
         <td>Antoine Bosselut</td>
