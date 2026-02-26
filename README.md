@@ -42,7 +42,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 1</strong></td>
         <td>18 Feb <br />19 Feb</td>
-        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>]<br />Word embeddings [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>]</td>
+        <td>Introduction &#124; Building a simple neural classifier [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>][<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+1-2%3A+Introduction++Simple+Neural+Classifier/0_ifqg1g76/31346">video</a>]<br />Word embeddings [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_1">slides</a>][<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+3%3A+Neural+Word+Embeddings/0_mt3wihw1/31346">video</a>]</td>
         <td><ul><li><a href="https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing">Introduction to natural language processing, chapter 3.1 - 3.3 & chapter 14.5 - 14.6</a></li><li><a href="https://arxiv.org/abs/1301.3781">Efficient Estimation of Word Representations in Vector Space</a></li><li><a href="https://aclanthology.org/D14-1162">GloVe: Global Vectors for Word Representation</a></li><li><a href="https://aclanthology.org/Q17-1010">Enriching word vectors with subword information</a></li><li><a href="https://aclanthology.org/L18-1008">Advances in pre-training distributed word representations</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
