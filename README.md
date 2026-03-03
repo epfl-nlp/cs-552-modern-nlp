@@ -56,7 +56,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 3</strong></td>
         <td>4 Mar <br />5 Mar</td>
-        <td>Sequence-to-sequence Models&#124; Transformers[<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_3">slides</a>] <br />Tokenization     </td>
+        <td>Sequence-to-sequence Models &#124; Transformers [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_3">slides</a>] <br />Tokenization     </td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a></li><li><a href="https://aclanthology.org/W18-2509">The Annotated Transformer</a></li><li><a href="https://jalammar.github.io/illustrated-transformer/">The illustrated transformer</a></li><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
