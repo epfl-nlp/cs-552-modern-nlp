@@ -62,8 +62,8 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     </tr>
     <tr>
         <td><strong>Week 4</strong></td>
-        <td>12 Mar <br />13 Mar</td>
-        <td><strong>[Online only]</strong> Pretraining &#124; Transfer Learning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_4">slides</a>] <br /><strong>Guest Lecture</strong></td>
+        <td>11 Mar <br />12 Mar</td>
+        <td><strong>[Online only]</strong> Pretraining &#124; Transfer Learning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_4">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+10%3A+Pretained+Language+Models%3A+ELMo%2C+BERT%2C+GPT/0_kuphnc4t/31346">video</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+11%3A+Pretrained+Representations%3A+BART++T5/0_q1p75ish/31346">video</a>] <br /><strong>Guest Lecture</strong></td>
         <td>Suggested reading: <ul><li>Elmo: <a href="https://aclanthology.org/N18-1202">Deep Contextualized Word Representations</a></li><li>BERT: <a href="https://aclanthology.org/N19-1423">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li><li>RoBERTa: <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li><li><a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">Transfer Learning in Natural Language Processing</a></li><li>T5: <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li><li>BART: <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li></ul></td>
         <td>Antoine Bosselut<br /><strong>Leandro von Werra (HuggingFace)</strong></td>
     </tr>
