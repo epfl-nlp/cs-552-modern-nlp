@@ -56,9 +56,16 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 3</strong></td>
         <td>4 Mar <br />5 Mar</td>
-        <td>Sequence-to-sequence Models &#124; Transformers [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_3">slides</a>] <br />Tokenization [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_3">slides</a>]  </td>
+        <td>Sequence-to-sequence Models &#124; Transformers [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_3">slides</a>][<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+7-8%3A+Sequence-to-sequence+models/0_hmm0oor1/31346">video</a>] <br />Tokenization [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_3">slides</a>][<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+9%3A+Tokenization/0_2x0gymgh/31346">video</a>]  </td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a></li><li><a href="https://aclanthology.org/W18-2509">The Annotated Transformer</a></li><li><a href="https://jalammar.github.io/illustrated-transformer/">The illustrated transformer</a></li><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li></ul></td>
         <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 4</strong></td>
+        <td>12 Mar <br />13 Mar</td>
+        <td><strong>[Online only]</strong> Pretraining &#124; Transfer Learning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_4">slides</a>] <br /><strong>Guest Lecture</strong></td>
+        <td>Suggested reading: <ul><li>Elmo: <a href="https://aclanthology.org/N18-1202">Deep Contextualized Word Representations</a></li><li>BERT: <a href="https://aclanthology.org/N19-1423">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li><li>RoBERTa: <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li><li><a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">Transfer Learning in Natural Language Processing</a></li><li>T5: <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li><li>BART: <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li></ul></td>
+        <td>Antoine Bosselut<br /><strong>Leandro von Werra (HuggingFace)</strong></td>
     </tr>
     <tr>
         <td></td>
