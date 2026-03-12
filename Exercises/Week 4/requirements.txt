@@ -1,0 +1,10 @@
+transformers
+datasets
+sentence_transformers
+accelerate
+scikit-learn
+scipy
+torch
+tqdm
+evaluate
+sacrebleu
