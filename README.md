@@ -69,10 +69,10 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     </tr>
         <tr>
         <td><strong>Week 5</strong></td>
-        <td>18 Mar</td>
-        <td>Evaluation &#124; Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205">slides</a>]<br /><strong>Guest Lecture: Angelika Romanou (EPFL)</strong></td>
+        <td>18 Mar<br/>19 Mar</td>
+        <td>Evaluation &amp; Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205">slides</a>]<br /><strong>Guest Lecture: Evaluation of AI systems</strong></td>
         <td>Suggested reading: -</td>
-        <td>Antoine Bosselut</td>
+        <td>Antoine Bosselut<br/><strong>  Angelika Romanou (EPFL)</strong></td>
     </tr>
     <tr>
         <td></td>
