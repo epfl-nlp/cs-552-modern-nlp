@@ -67,6 +67,13 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td>Suggested reading: <ul><li>Elmo: <a href="https://aclanthology.org/N18-1202">Deep Contextualized Word Representations</a></li><li>BERT: <a href="https://aclanthology.org/N19-1423">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li><li>RoBERTa: <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li><li><a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">Transfer Learning in Natural Language Processing</a></li><li>T5: <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li><li>BART: <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li></ul></td>
         <td>Antoine Bosselut<br /><strong>Leandro von Werra (HuggingFace)</strong></td>
     </tr>
+        <tr>
+        <td><strong>Week 5</strong></td>
+        <td>18 Mar</td>
+        <td>Evaluation &#124; Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205">slides</a>]<br /><strong>Guest Lecture: Angelika Romanou (EPFL)</strong></td>
+        <td>Suggested reading: -</td>
+        <td>Antoine Bosselut</td>
+    </tr>
     <tr>
         <td></td>
         <td></td>
