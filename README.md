@@ -107,7 +107,7 @@ Please email us at **nlp-cs552-spring2026-ta-team [at] groupes [dot] epfl [dot] 
 
 **Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut)
 
-**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic)
+**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic), [Hao Zhao](https://people.epfl.ch/hao.zhao)
 
 
 
