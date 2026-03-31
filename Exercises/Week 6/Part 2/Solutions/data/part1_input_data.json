@@ -1,0 +1,20 @@
+[
+    {
+        "instruction": "Given an economic concept, define it in simple terms.",
+        "input": "Inflation",
+        "output": "Inflation is an economic concept that refers to the sustained rise in prices of goods and services. It is measured by calculating the rate at which the general level of prices for goods and services is rising, and it is usually calculated using a price index. When inflation is high, the purchasing power of currency decreases and the value of money diminishes.",
+        "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nGiven an economic concept, define it in simple terms.\n\n### Input:\nInflation\n\n### Response:\nInflation is an economic concept that refers to the sustained rise in prices of goods and services. It is measured by calculating the rate at which the general level of prices for goods and services is rising, and it is usually calculated using a price index. When inflation is high, the purchasing power of currency decreases and the value of money diminishes."
+    },
+    {
+        "instruction": "Generate a poem about spring.",
+        "input": "",
+        "output": "The snow has melted away,\nThe flowers bloom so bright,\nBirds singing everywhere,\nThis is the beauty of springtime delight.\n\nThe sun shines down with its warming ray,\nThe grass is gleaming green,\nA pleasant breeze is blowing through,\nA pleasant feeling can be seen.\n\nThe trees rain down the petals of the past,\nA beautiful sign of the new season,\nA fresh start that’s meant to last,\nA beautiful feeling recalls the reason.\n\nA warm season of joy,\nA season that’s here to stay,\nA season to ease our sorrow,\nThe season known as spring.",
+        "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nGenerate a poem about spring.\n\n### Response:\nThe snow has melted away,\nThe flowers bloom so bright,\nBirds singing everywhere,\nThis is the beauty of springtime delight.\n\nThe sun shines down with its warming ray,\nThe grass is gleaming green,\nA pleasant breeze is blowing through,\nA pleasant feeling can be seen.\n\nThe trees rain down the petals of the past,\nA beautiful sign of the new season,\nA fresh start that’s meant to last,\nA beautiful feeling recalls the reason.\n\nA warm season of joy,\nA season that’s here to stay,\nA season to ease our sorrow,\nThe season known as spring."
+    },
+    {
+        "instruction": "Generate a list of ten items a person might need for a camping trip",
+        "input": "",
+        "output": "1. Tent\n2. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. Extra clothes\n7. First aid kit\n8. Camp stove\n9. Cooking utensils\n10. Biodegradable soaps/shampoos",
+        "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nGenerate a list of ten items a person might need for a camping trip\n\n### Response:\n1. Tent\n2. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. Extra clothes\n7. First aid kit\n8. Camp stove\n9. Cooking utensils\n10. Biodegradable soaps/shampoos"
+    }
+]

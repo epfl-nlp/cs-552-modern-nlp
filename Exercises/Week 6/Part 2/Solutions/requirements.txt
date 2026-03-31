@@ -1,0 +1,10 @@
+transformers
+datasets
+evaluate
+tqdm
+sentencepiece
+nltk
+rouge_score
+bert_score
+unbabel-comet
+mauve-text
