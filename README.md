@@ -84,7 +84,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 7</strong></td>
         <td>1 Apr <br />2 Apr</td>
-        <td>LLMs: In-context Learning, Instruction Tuning, Post-training                 <br/> <strong>No Class</strong></td>
+        <td>LLMs: In-context Learning, Instruction Tuning, Post-training [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_7">slides</a>]                <br/> <strong>No Class</strong></td>
         <td></td>
         <td>Antoine Bosselut</td>
     </tr>
