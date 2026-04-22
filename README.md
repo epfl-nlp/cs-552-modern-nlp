@@ -89,6 +89,20 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td>Antoine Bosselut</td>
     </tr>
     <tr>
+        <td><strong>Week 8</strong></td>
+        <td>15 Apr</td>
+        <td>Midterm</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong>Week 9</strong></td>
+        <td>22 Apr <br />23 Apr</td>
+        <td><strong>Guest Lecture: Interpretability</strong> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_9">slides</a>]<br/> <strong>No Class</strong></td>
+        <td></td>
+        <td>Madhur Panwar & Deniz Bayazit <br /></td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td></td>
