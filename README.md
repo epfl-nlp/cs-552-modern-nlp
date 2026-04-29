@@ -109,6 +109,20 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
+    <tr>
+        <td><strong>Week 12</strong></td>
+        <td>14 May <br />15 May</td>
+        <td>Ethics[<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_10">slides</a>]<br /><strong>RCP Tutorial</strong></td>
+        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 
 </table>
 
