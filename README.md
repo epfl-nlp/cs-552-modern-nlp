@@ -109,6 +109,20 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
+    <tr>
+        <td><strong>Week 11</strong></td>
+        <td>6 May <br />7 May</td>
+        <td>Retrieval-Augmented LLMs | Tools | Agents [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_11">slides</a>]<br /><strong>Guest Lecture: Training Frontier AI Agents</strong> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_11">slides</a>]</td>
+        <td>Suggested reading: <ul><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li><li><a href="https://www.anthropic.com/engineering">Engineering at Anthropic: Inside the team building reliable AI systems</a></li></ul></td>
+        <td>Eric Chen <br /> <strong>Antonin Faure (Mistral AI)</strong></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 
