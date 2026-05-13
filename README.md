@@ -116,6 +116,14 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td>Suggested reading: <ul><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li><li><a href="https://www.anthropic.com/engineering">Engineering at Anthropic: Inside the team building reliable AI systems</a></li></ul></td>
         <td>Eric Chen <br /> <strong>Antonin Faure (Mistral AI)</strong></td>
     </tr>
+    </tr>
+        <tr>
+        <td><strong>Week 12</strong></td>
+        <td>13 May <br />14 May</td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_12">slides</a>] <br /><strong>No Class</strong></td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
     <tr>
         <td></td>
         <td></td>
