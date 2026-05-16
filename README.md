@@ -120,7 +120,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 12</strong></td>
         <td>13 May <br />14 May</td>
-        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_12">slides</a>] <br /><strong>No Class</strong></td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_12">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+25-26%3A+Scaling+laws+%7C+LLM+Efficiency/0_bp0fv6um/31346">video</a>] <br /><strong>No Class</strong></td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
